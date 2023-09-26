@@ -1,24 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-### Welcome to Morningside AI!
+## Welcome to Morningside AI!
 
 
-##### Who are we? 🌟
+### Who are we? 🌟
 Welcome to the lab! We’re Morningside AI, a team of passionate idealists on a mission to blend the practical with the pioneering. We're dedicated to empowering businesses through AI automation while simultaneously pushing the limits of what AI can achieve.
 
-#### Want to Collaborate? 👩‍💻👨‍💻
+### Want to Collaborate? 👩‍💻👨‍💻
 We're all about community, and we believe that brilliance is multiplied when shared. Here's how you can get involved:
 
 1. **Fork, Clone, Branch**: Fork the repo to your GitHub account, clone it locally, and create a new branch for your awesome features.
 2. **Commit with Intent**: Make your changes and commit them. Good commit messages are like the abstract of a research paper—informative and concise.
 3. **Create a Pull Request**: Submit a pull request to our main branch, and our team will review your contribution.
 
-#### Useful resources
+### Useful resources
 
 - Check out our main site at [Morningside AI Website](https://morningside.ai/)
 - Want to keep up on all the new research in tech? Visit [TextLayer](https://textlayer.ai/)
 
-#### Guiding Ideas
+### Guiding Ideas
 - **Alan Turing's Untold Story**: Beyond his contributions to computer science, Alan Turing was also a pioneer in the field of morphogenesis, the biological study of shapes and forms in nature. A reminder that cross-disciplinary knowledge can drive groundbreaking innovations.
 - **Quantum Quirks**: Quantum computers use the principles of superposition to perform multiple calculations at once. This revolutionary technology has the potential to redefine what's possible in AI—and we’re keeping an eye on it.
 - **Neural Networks & Nature**: Inspired by the human brain, neural networks are just one example of how understanding natural systems can provide computational solutions. Our approach often involves mimicking these systems for innovative solutions.
