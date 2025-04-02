@@ -1,4 +1,4 @@
-# Welcome to Morningside AI! 👋
+# Welcome to Morningside AI 👋
 
 ### Who are we? 🌟
 Welcome to Morningside AI, a team of passionate idealists on a mission to blend the practical with the pioneering. We're dedicated to empowering businesses through AI automation while simultaneously pushing the limits of what AI can achieve.
